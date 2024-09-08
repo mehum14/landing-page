@@ -1,0 +1,1 @@
+This is a lading page to practice CSS skills, especially flexbox.
