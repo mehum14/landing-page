@@ -24,7 +24,7 @@ a {
     margin-left: auto;
     display: flex;
     gap: 10px;
-    font-size: 18px;
+    font-size: 22px;
     
 }
 
@@ -116,7 +116,6 @@ a {
     padding: 75px 15vw;
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
 }
 
 .quote {
@@ -129,8 +128,8 @@ a {
 
 .quote-caption {
     font-weight: 900;
-    margin-top: -10px;
     font-size: 22px;
+    align-self: flex-end;
 }
 
 .main-cta {
